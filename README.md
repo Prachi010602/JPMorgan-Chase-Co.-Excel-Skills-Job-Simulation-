@@ -2,6 +2,7 @@
 JPMorgan Chase &amp; Co. Excel Skills Job Simulation on Forage - February 2024 .Acquired proficient command of Excel functionalities and data analysis techniques, including data cleansing, and manipulation, and conditional formatting techniques
 
 Skills acquired :
+
 •	Acquired proficient command of Excel functionalities and data analysis techniques, including data cleansing, and manipulation, and conditional formatting techniques.
 
 •	Acquired proficiency in automation by learning to record macros and script in Visual Basic for Applications (VBA), developing two functional macros integrated with buttons using account sales data.
